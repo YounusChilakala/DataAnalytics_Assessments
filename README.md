@@ -1,6 +1,6 @@
 # DataAnalytics_Assessments
 A repository containing assessments done while learning Data Analytics.
-  <body>
-  <h1>Week 1<h1/>
-    <h2> Assignment 1: Introduction to data<h2/>
-  <body/>
+Week 1 contains three assignments:
+1. Intreoduction to data
+2. Basic Linear regression using excel
+3. Statistics in Data analytics
